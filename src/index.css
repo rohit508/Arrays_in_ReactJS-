@@ -1,0 +1,22 @@
+.Cards{
+  margin-top: 10px;
+  width: 15%;
+  border-radius: 50px;
+  margin-left: 100px;
+  
+}
+
+.card_img{
+  padding: 30px;
+  border-radius: 50px;
+  width: 100%;
+
+}
+.card_litle{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.card_category{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
